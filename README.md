@@ -43,7 +43,7 @@ I am AKANJI, Oluwaseun Gabriel, a full stack developer, App developer and a math
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asgatcreation&label=Profile%20views&color=0e75b6&style=flat" alt="asgatcreation" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asgatcreation" alt="asgatcreation" /></a> </p>
+<p align="left"> <a href="https://github.com/asgatcreation/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asgatcreation" alt="asgatcreation" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
