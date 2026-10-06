@@ -36,7 +36,7 @@ class Asgatcreation:
         "data_ml":  ["Pandas", "NumPy", "scikit-learn", "PyTorch", "TensorFlow"],
         "ai":       ["LLMs", "RAG", "LangChain", "Hugging Face", "Claude & OpenAI APIs"],
     }
-    currently  = "Building EduNexus — an AI-powered SaaS school management platform"
+    currently  = "Building"
     open_to    = "Collaborations on amazing & awesome projects, freelance and full-time work"
 
     def say_hi(self):
